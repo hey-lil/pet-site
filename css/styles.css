@@ -1,0 +1,25 @@
+h1 {
+  color: #659A6E;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #87B58F;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: serif;
+  font-size: 15px;
+  color: #3B483D;
+  font-weight: 4px;
+  line-height: 20px;
+}
+
+ul {
+  font-size: 15px;
+  line-height: 25px;
+  text-transform: italic;
+}
